@@ -1,0 +1,60 @@
+ .top {
+color: white;
+font-weight:bold;
+font-size:70px; 
+background-color: gray;
+border-bottom: 10px solid black;
+padding:10px;
+}
+
+
+.bottom {
+    border-top: 10px solid black;
+    padding:10px;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.square { 
+    background-color: orange;
+    width: 250px;
+    height:250px;
+    margin: 150px
+ }
+
+ .square-b {
+     background-color: orange;
+     border: 2px solid black;
+     height: 200px;
+     width: 200px;
+     margin: 150px;
+
+ }
+
+
+.mid-padding{
+    padding:200px;
+}
+
+
+.circle { 
+    background-color:blue;
+    width: 250px;
+    height:250px;
+    border-radius: 50%;
+    margin: 150px;
+ }
+
+
+
+ .circle-b { 
+    background-color:blue;
+    width: 250px;
+    height:250px;
+    border-radius: 50%  ;
+    border: 10px solid orange ;
+    margin: 150px;
+
+ }
